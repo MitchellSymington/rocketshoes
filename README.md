@@ -17,7 +17,7 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação E c
 <a href="https://github.com/MitchellSymington/rocketshoes-mobile"># Repositório MOBILE</a> </br>
 
 
-### WEB
+### Web
 <p float="left"> 
  <img height="260" src=".github/rs1.png"/>
  <img height="260" src=".github/rs2.png"/>
