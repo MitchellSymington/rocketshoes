@@ -19,13 +19,13 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação E c
 
 ### WEB
 <p float="left"> 
- <img height="260" src=".github/rs1.jpg"/>
- <img height="260" src=".github/rs2.jpg"/>
+ <img height="260" src=".github/rs1.png"/>
+ <img height="260" src=".github/rs2.png"/>
 </p>
 
 ### APP
 <p float="left"> 
- <img src=".github/default.png"/>
+ <img src=".github/default.jpg"/>
 </p>
 
 
