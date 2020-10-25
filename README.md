@@ -17,15 +17,15 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação E c
 <a href="https://github.com/MitchellSymington/rocketshoes-mobile"># Repositório MOBILE</a> </br>
 
 
-### Frontend
+### WEB
 <p float="left"> 
- <img height="260" src="Captura de Tela 2020-10-22 às 20.19.50.png"/>
- <img height="260" src="Captura de Tela 2020-10-22 às 20.19.40.png"/>
+ <img height="260" src=".github/rs1.jpg"/>
+ <img height="260" src=".github/rs2.jpg"/>
 </p>
 
+### APP
 <p float="left"> 
- <img height="260" src="Captura de Tela 2020-10-22 às 20.19.30.png"/>
- <img height="260" src="Captura de Tela 2020-10-22 às 20.19.25.png"/>
+ <img src=".github/default.png"/>
 </p>
 
 
