@@ -25,7 +25,7 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação E c
 
 ### APP
 <p float="left"> 
- <img src=".github/default.jpg"/>
+ <img src=".github/default.png"/>
 </p>
 
 
