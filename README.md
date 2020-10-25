@@ -13,8 +13,8 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação E c
 - :iphone: Mobile - React Native | Sequelize.
 
 ## :open_file_folder: Repositórios
-<a href="https://github.com/MitchellSymington/gobarber-web"># Repositório WEB</a> </br>
-<a href="https://github.com/MitchellSymington/appgobarber"># Repositório MOBILE</a> </br>
+<a href="https://github.com/MitchellSymington/rocketshoes-web"># Repositório WEB</a> </br>
+<a href="https://github.com/MitchellSymington/rocketshoes-mobile"># Repositório MOBILE</a> </br>
 
 
 ### Frontend
